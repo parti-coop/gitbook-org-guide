@@ -1,3 +1,11 @@
-# My Awesome Book
+# 민주적 조직을 위한 커뮤니케이션 가이드
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**소개**
+
+* 이 가이드는 '일상의 민주주의'라는 가치에 착안합니다. 일상 중 가장 많은 시간을 보내는 조직 안에서 더 민주적으로 의사소통할 수 있는 방법들을 소개합니다.
+
+* 이 가이드는 누구든지 토론을 통하여 수정할 수 있습니다. 가이드에 아이디어를 더하고 싶거나 수정하고 싶으신 경우 contact@parti.xyz 로 메일을 보내주세요.
+
+* 이 가이드는 [빠띠](http://partiunion.org)가 제작했습니다. 빠띠는 민주적인 삶을 위한 오픈소스 소프트웨어를 만들고 이를 활용하는 방법을 컨설팅하는 조직입니다.
+
+* [빠띠](http://partiunion.org)는 대기업과 엘리트 단체들의 기술 독점을 비판적으로 여깁니다. 기술을 공공의 것으로 만들어야 한다고 신념 아래에 오픈소스를 개발하고 있습니다.
