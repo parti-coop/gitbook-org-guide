@@ -7,4 +7,5 @@
 * [실험하기](c2e4-d5d8-d558-ae30.md)
 * [빠띠 팀과 함께 실험하기](be60-b760-c640-d568-aed8-b180-ae30.md)
 * [부록. 빠띠 서비스 소개](bd80-b85d-advanced-tips.md)
+* [부록. 실험 카드](bd80-b85d-c2e4-d5d8-ce74-b4dc.md)
 
